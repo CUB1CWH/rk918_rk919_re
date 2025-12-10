@@ -22,9 +22,13 @@ https://www.sonix.com.tw/article-en-4336-30356
 # Images of PCB
 
 https://ibb.co/GfDd4f1n
+
 https://ibb.co/tT8X5P7T
+
 https://ibb.co/BH79hwHS
+
 https://ibb.co/vCmW1RzJ
+
 https://ibb.co/8nrsK4jQ
 
 # Extracting stock firmware
